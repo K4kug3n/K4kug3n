@@ -1,7 +1,7 @@
 # Maxime Rambosson
 
-Master degree student at University of Geneva.  
+PhD student at University of Geneva.  
 
-Passionate of coding in general, I'm interessed in everything providing a real and usable result.  
+Passionate about coding, I'm interested in projects that deliver real, usable results.
 
-Currently working on Computer Graphics and Programming Language creation for learning purpose.  
+I create minimal projects to experiment with and learn about various fields.
